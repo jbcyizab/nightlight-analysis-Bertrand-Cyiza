@@ -1,4 +1,3 @@
-# data/
 # Ignore wheel files
 *.whl
 # Ignore virtual environment
